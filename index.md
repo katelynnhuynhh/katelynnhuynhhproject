@@ -30,11 +30,5 @@ The data shows that a large number of students (rating 6 or 7) support having le
 
 A potential downside is that recordings could reduce in-person attendance, which may hurt the classroom experience for students and instructional staff. A future refinement would be to survey students on *why* they want recordings — whether it is for review, accessibility, or scheduling conflicts — to better understand how to implement this change.
 
-# This is a big header
-
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
 <img src="<custom-path>/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
-
-## This is a small header
-
-This is basic paragraph text.
