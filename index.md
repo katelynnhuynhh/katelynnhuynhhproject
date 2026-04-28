@@ -6,29 +6,26 @@ layout: default
 # COMP110 Data Analysis: Should Lectures Be Recorded?
 
 ## Summary
-For this project, I analyzed survey data from COMP110 students to explore whether the course should provide lecture recordings. My idea is that making lectures available as recordings would benefit students who struggle to keep up or miss class. I used the `add_livestream` column (student support for livestreaming lectures) and the `understanding` column (how well students feel they understand the material) to investigate this.
+I analyzed survey data from COMP110 students to find out whether the course should utilize lecture recordings. The idea is that making lecture recordings available after class will help students review materials they did not completely understand during lecture. This is also useful to any students that struggle with the pace in lecture and will help students who are absent. I used the `add_livestream` column (student support for livestreaming lectures) and the `understanding` column (how well students feel they understand the material) to investigate this.
 
 ## Analysis
 
-### Chart 1: Overall Support for Lecture Recordings
-This bar chart shows how many students gave each rating (1-7) for wanting lectures to be livestreamed/recorded.
+### Chart 1: Student Support for Lecture Recordings
+The bar chart displays the number of students that rated whether they agreed or disagreed with having lectures be livestreamed or recorded (on a scale of 1-7)
 
 ![Chart 1](/katelynnhuynhhproject/static/chart1.png)
 
 ### Chart 2: Understanding Scores by Livestream Support Rating
-This box plot compares understanding scores across each group of students based on how strongly they want recordings.
+The box plot displays a comparison between the level of understanding between students and how strongly they want the recordings.
 
 ![Chart 2](/katelynnhuynhhproject/static/chart2.png)
 
-### Chart 3: Understanding Scores of Strong Supporters
-This histogram shows the understanding scores of just the students who strongly support lecture recordings (rating of 6 or 7).
+### Chart 3: Understanding Scores of Students Who Strongly Want Recordings
+The histogram shows the level of understanding of students who only strongly support the usage of lecture recordings.
 
 ![Chart 3](/katelynnhuynhhproject/static/chart3.png)
 
 ## Conclusion
-The data shows that a large number of students (rating 6 or 7) support having lecture recordings. Interestingly, even students who feel they understand the material well still want recordings, suggesting this is not just a request from struggling students but a widely desired feature. This supports the idea of making lecture recordings available to all students.
+Based on the data, a large number of students support the incorporation of lecture recordings. The majority of the students rated a 6 or 7 which shows that they strongly agree with the idea. Additionally, students who have a high level of understanding for the material still want the recordings, suggesting that it is useful across all students. The overall data supports making lecture recordings available to every student.
 
-A potential downside is that recordings could reduce in-person attendance, which may hurt the classroom experience for students and instructional staff. A future refinement would be to survey students on *why* they want recordings — whether it is for review, accessibility, or scheduling conflicts — to better understand how to implement this change.
-
-<!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="<custom-path>/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
+One negative effect of lecture recordings would be a lower attendance rate in lectures. This may lower classroom participation and engagement among students and staff. In the future, a survey question asking students why they want lecture recordings may be useful to understand student's true intentions of using such a tool if it were to be provided.
